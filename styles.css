@@ -39,17 +39,33 @@ li a:hover {
 }
 #nav-quote{
 	font-family: "Times New Roman", Times, serif;
-	margin-bottom:-8px;
+	margin-bottom:-2px;
 }
 
 .indiquotes{
-	padding-top:0.5px;
+	
 	background-color:#e6e6ff;
+	padding:10px;
+	margin-top:8px;
 }
 
 em{
 	font-weight:bold;
 	
+}
+
+aside{
+	width: 40%;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    float: left;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #lightgray;
+}
+
+footer{
+	display:block;
 }
 
 
