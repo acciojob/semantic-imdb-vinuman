@@ -1,2 +1,55 @@
 
 /* Your CSS Code here. */
+h1{
+	font-family: "Times New Roman", Times, serif;
+	font-size:40px;
+}
+
+
+li{
+	float: left;
+	
+}
+
+ul {
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: grey;
+	margin-bottom:25px;
+	margin-top:10px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+#nav-actor{
+	font-family: "Times New Roman", Times, serif;
+	margin-bottom:-6px;
+}
+#nav-quote{
+	font-family: "Times New Roman", Times, serif;
+	margin-bottom:-8px;
+}
+
+.indiquotes{
+	padding-top:0.5px;
+	background-color:#e6e6ff;
+}
+
+em{
+	font-weight:bold;
+	
+}
+
+
