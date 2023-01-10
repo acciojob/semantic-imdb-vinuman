@@ -57,7 +57,7 @@ em{
 aside{
 	width: 40%;
     padding-left: 0.5rem;
-    margin-left: 0.5rem;
+    margin-top:10px;
     float: left;
     box-shadow: inset 5px 0 5px -5px #29627e;
     font-style: italic;
@@ -65,7 +65,10 @@ aside{
 }
 
 footer{
-	display:block;
+	margin-top:180px;
+	margin-left:-235px;
+	float:left;
+	font-weight:bold;
 }
 
 
